@@ -13,7 +13,7 @@ What is GoodTube you ask? It's a little plugin for Youtube (just works) and:
 - Removes thumbnails for other recommended videos that pop up when a video finishes (I really hate these, try without it's nice).
 - Keeps you up to date with the latest version automatically.
 
-And it keeps the good stuff like;
+And it keeps the good stuff like:
 - The beloved algorithm / watch history.
 - Keyboard shortcuts.
 - Subtitles.
@@ -24,12 +24,12 @@ And it keeps the good stuff like;
 - Theater mode.
 - Live streams.
 
-It's easy to install too;
+It's easy to install too:
  - [How to install on desktop](#how-to-install-on-desktop)
  - [How to install on Android (mobile)](#how-to-install-on-android-mobile)
  - [How to install on iOS / iPhone (mobile)](#how-to-install-on-ios--iphone-mobile)
 
-Here's some screenshots;
+Here's some screenshots:
 |  ![enter image description here](https://raw.githubusercontent.com/goodtube4u/goodtube/main/installation/demo-desktop.png)|  ![enter image description here](https://raw.githubusercontent.com/goodtube4u/goodtube/main/installation/demo-mobile.png)|
 |--|--|
 
