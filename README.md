@@ -5,7 +5,7 @@ Hello and welcome! I'm glad you're here.
 
 What is GoodTube you ask? It's a little plugin for Youtube (just works) and:
 
-- REMOVES 100% OF PAGE AND VIDEO ADS.
+- **Removes 100% of page and video ads.**
 - Allows background play (so you can turn your phone screen off and keep listening).
 - Allows you to download the audio / video / entire playlist in up to 8K quality with the click of a button (at the bottom of the player).
 - Works on both desktop and mobile (iOS and Android).
